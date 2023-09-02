@@ -1,0 +1,24 @@
+{
+  "name": "nosql-social-network-api",
+  "version": "1.0.0",
+  "description": "- [Description](#description)\r - [Technology](#Technology)\r - [Installation](#installation)\r - [Usage](#usage)\r - [License](#license)\r - [Contribution](#contribution)\r - [Questions](#questions)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yago-pixel/NoSQL-Social-Network-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yago-pixel/NoSQL-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/yago-pixel/NoSQL-Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
