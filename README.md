@@ -24,6 +24,9 @@ Project is created with:
 - MongoDB
 - Mongoose
 
+C:\Users\yagol\OneDrive\Área de Trabalho\assignments\NoSQL-Social-Network-API\Screenshot 2023-09-30 183325.png
+C:\Users\yagol\OneDrive\Área de Trabalho\assignments\NoSQL-Social-Network-API\Screenshot 2023-09-30 200849.png
+C:\Users\yagol\OneDrive\Área de Trabalho\assignments\NoSQL-Social-Network-API\Screenshot 2023-09-30 183340.png
 ## Installation
 
 To run this project, install it locally using npm:
