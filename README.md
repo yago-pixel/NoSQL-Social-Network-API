@@ -24,10 +24,16 @@ Project is created with:
 - MongoDB
 - Mongoose
 
-![image](C:\Users\yagol\OneDrive\Área de Trabalho\assignments\NoSQL-Social-Network-API\Screenshot 2023-09-30 183325.png)
+## Pictures
 
-(C:\Users\yagol\OneDrive\Área de Trabalho\assignments\NoSQL-Social-Network-API\Screenshot 2023-09-30 200849.png)
-(C:\Users\yagol\OneDrive\Área de Trabalho\assignments\NoSQL-Social-Network-API\Screenshot 2023-09-30 183340.png)
+![Picture01](https://github.com/yago-pixel/NoSQL-Social-Network-API/assets/119789668/c89ed450-6d49-4c85-9cff-d4fe80124008)
+
+![Picture03](https://github.com/yago-pixel/NoSQL-Social-Network-API/assets/119789668/adba203c-fff4-48b2-b822-acbb4f193d36)
+
+![Picture02](https://github.com/yago-pixel/NoSQL-Social-Network-API/assets/119789668/f7f6419f-512a-418a-b16f-7590d81cb09c)
+
+
+
 ## Installation
 
 To run this project, install it locally using npm:
