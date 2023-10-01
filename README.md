@@ -49,7 +49,7 @@ This project is licensed under MIT, for more information please visit [this webs
 
 ## Contribution
 
-Made by Wenwen Tian
+Made by Yago Lira
 
 ## Questions?
 
